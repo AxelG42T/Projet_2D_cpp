@@ -1,0 +1,8 @@
+Package: libpng
+Version: 1.6.43
+Port-Version: 2
+Depends: vcpkg-cmake, vcpkg-cmake-config, zlib
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 97b9ebf06dfc1efcb6d6d068db776e3e1303e3b8c23b594a6420f9128805a6a6
+Description: libpng is a library implementing an interface for reading and writing PNG (Portable Network Graphics) format files
